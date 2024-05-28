@@ -30,3 +30,9 @@ Finally we load the data into Tableau and create a dashboard.
 
 Tableau dashboard Link: https://public.tableau.com/app/profile/nilankar.deb/viz/Airbnbanalysis_17168985808830/MapDash
 
+<div>
+	<img src="https://github.com/Maddy1107/AirBnB_analysis/blob/main/Viz%20images/Map%20Dash.png"/>
+  <img src="https://github.com/Maddy1107/AirBnB_analysis/blob/main/Viz%20images/PropertyDash.png"/>
+	<img src="https://github.com/Maddy1107/AirBnB_analysis/blob/main/Viz%20images/Host%20Dash.png"/>
+	<img src="https://github.com/Maddy1107/AirBnB_analysis/blob/main/Viz%20images/ReviewDash.png"/>
+</div>
